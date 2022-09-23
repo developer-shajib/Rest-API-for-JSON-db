@@ -1,4 +1,4 @@
-<img style="height:100px;width:100%" src="./public/images/dev_shajib.png">
+<img style="height:300px;width:60%" src="./public/images/dev_shajib.png">
 
 ## Rest API For Json db with express server
 
